@@ -1,0 +1,43 @@
+.primero{
+
+}
+
+
+p.primero{
+
+}
+
+	
+section.primero{
+
+}
+
+
+#sergi{
+    <p id="sergi">buenos dias</p>
+    <section id="sergi">que vaya bien</section>
+}
+
+p#moco{
+
+}
+
+
+.primero span{ 
+
+}
+
+
+.primero > span{
+
+}
+
+
+span .primero{
+
+}
+
+
+.primero.parding{ 
+
+}
